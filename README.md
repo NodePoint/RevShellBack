@@ -1,6 +1,6 @@
 # RevShellBack
 
-- Author: NodePoint
+- Author: uintdev
 - Version: 0.1.3
 - Target: Windows
 - Category: Execution
