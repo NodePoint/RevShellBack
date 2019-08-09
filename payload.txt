@@ -2,7 +2,7 @@
 #
 # Title:         RevShellBack
 # Description:   Set up a reverse shell and execute powershell/generic commands in the background from the Bash Bunny via USB ethernet.
-# Author:        NodePoint
+# Author:        uintdev
 # Version:       0.1.3
 # Category:      Execution
 # Target:        Windows
